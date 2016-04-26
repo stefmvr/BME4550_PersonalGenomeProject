@@ -1,4 +1,4 @@
-# Personal Genome Script 1B
+# Personal Genome Script 1B: filter_tri_alleles.py
 
 # All SNPs in the .map file, rsid index -> rsid
 rsids = {}

@@ -1,4 +1,4 @@
-# Personal Genome Script 1A 
+# Personal Genome Script 1A: samples_to_hapmap.py 
 
 # Helper function to synchronize SNPs
 def filter_missing_snps(snpSrc, snpRef):
